@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./assets/fonts/Montserrat/Montserrat-VariableFont_wght.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('./assets/fonts/Inter/Inter-VariableFont_slnt,wght.ttf') format('truetype');
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: #16161E;
+}
+
+p, h1{
+    font-family: Inter, serif;
+
+}
+
+.App{
+    color: #fff;
+}
+
+
+.callToActionBar {
+    background-color: #FA4A55;
+    border-radius: 7px;
+    border: 0;
+    color: #fff;
+    font-family: Montserrat, serif;
+    font-weight: bold;
+    font-size:  18px;
+    height: 46px;
+    padding: 3px 28px;
+}

@@ -1,0 +1,29 @@
+.Intro, h3{
+    text-align: center;
+    font-family: Montserrat, serif;
+}
+
+.Intro h3 {
+    padding-top: 58.5px;
+    font-size: 24px;
+}
+
+.Intro h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin: 24px 0;
+}
+
+.Intro p{
+    margin: 0 auto;
+    font-size: 16px;
+    width: 40%;
+}
+
+.Intro .cta_btn{
+    margin-top: 24px;
+}
+
+.Intro .cta_btn > :first-child{
+    margin-right: 16px;
+}

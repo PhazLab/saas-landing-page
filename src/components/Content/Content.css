@@ -1,0 +1,28 @@
+.content_items {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 145.5px;
+}  
+
+.content_items li {
+    width: 340px;
+    height: 123px;
+    background-color: #29292C;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.content_items li .title_content{
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 24px;
+}
+
+.content_items li .content{
+    font-size: 18px;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 24px;
+}
