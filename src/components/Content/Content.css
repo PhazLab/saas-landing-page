@@ -5,6 +5,16 @@
     margin-top: 145.5px;
 }  
 
+@media(max-width: 1066px){
+    .content_items{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(3, 1fr);
+        grid-gap: 12px;
+        justify-items: center;
+    }
+}
+
 .content_items li {
     width: 340px;
     height: 123px;

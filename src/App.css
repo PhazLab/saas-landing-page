@@ -13,6 +13,10 @@ body{
     background: #16161E;
 }
 
+ul{
+    padding-left: 0;
+}
+
 p, h1{
     font-family: Inter, serif;
 
@@ -25,7 +29,7 @@ p, h1{
 
 .callToActionBar {
     background-color: #FA4A55;
-    border-radius: 7px;
+    border-radius: 10px;
     border: 0;
     color: #fff;
     font-family: Montserrat, serif;
