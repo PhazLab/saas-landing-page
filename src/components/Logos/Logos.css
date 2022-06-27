@@ -1,0 +1,8 @@
+.Logos{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 138px;
+    padding: 0px 35px;
+}
